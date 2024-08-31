@@ -849,15 +849,15 @@ zk.ev.on('group-participants.update', async (group) => {
                 if((conf.DP).toLowerCase() === 'yes') {     
 
                     let cmsg =`
-┌─❖
-│「      BARAKA-MD-V1  IS  ONLINE     ❒⁠⁠⁠⁠⁠⁠⁠⁠⁠
-└┬❖ 
-   │✑ Prefix [ ${prefixe} ]
-   │✑ Commands : 208
-   │✑ Ram : 22.34/54.86 GB
-   │✑ Platform : Chrome Linux 
-   │✑ Owner : Baraka Chacha Bega  
-   └─────────────────❒⁠⁠⁠⁠⁠⁠⁠⁠⁠`;
+┌───────────────────❂
+│✑ `BARAKA-MD-V1 IS ONLINE`    
+┌───────────────────❂
+│✑ `Prefix`[ ${prefixe} ]                              
+│✑ `Commands : 208`                         
+│✑ `Ram : 22.34/54.86 GB`
+│✑ `Platform : Chrome Linux`
+│✑ `Owner : Baraka Chacha Bega`
+└───────────────────❂⁠⁠⁠⁠⁠⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
