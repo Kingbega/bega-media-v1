@@ -852,7 +852,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ┌───────────────────❂
 │✑ BARAKA-MD-V1 IS ONLINE   
 ┌───────────────────❂
-│✑ Prefix : [ . ]                  
+│✑ Prefix : [ ${prefixe} ]                  
 │✑ Commands : 208
 │✑ Ram : 22.34/54.86 GB
 │✑ Platform : Chrome Linux
