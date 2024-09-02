@@ -7,8 +7,3 @@
 
 
 
-
-
-## 📊 `GitHub Stats of Bot Contributors`
-[![Kinge bega GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingbega&show_icons=true&theme=radical)](https://github.com/Kingbega)
-
