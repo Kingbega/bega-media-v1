@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *BARAKA-MD-V2 BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *BARAKA-MD-V1 BOT* is alive just like you gee. ')
 
 }
     });
