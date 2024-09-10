@@ -22,7 +22,7 @@ zokou({
       'owner': _0x31f399.owner.login
     };
     const _0x187feb = new Date(_0x31f399.created_at).toLocaleDateString("en-GB");
-    const _0x5bd4cd = "*HEY 👋 THIS IS BARAKA-MD-V1.*\n\n ___________________________________________________\n\n[✨] *STARS:* - " + _0x2f5374.stars + "\n[🧧] *FORKS:* - " + _0x2f5374.forks + "\n[📅] *RELEASE DATE:* - " + _0x187feb + "\n[👨‍💻] *OWNER:* - *Baraka Chacha Bega*\n[🗼] *REPO:* - " + _0x31f399.html_url + "\n___________________________________________________";
+    const _0x5bd4cd = "*HEY 👋 THIS IS BARAKA-MD-V1.*\n\n ___________________________________________________\n[✨] *STARS:* - " + _0x2f5374.stars + "\n[🧧] *FORKS:* - " + _0x2f5374.forks + "\n[📅] *RELEASE DATE:* - " + _0x187feb + "\n[👨‍💻] *OWNER:* - *Baraka Chacha Bega*\n[🗼] *REPO:* - " + _0x31f399.html_url + "\n___________________________________________________";
     await _0x169b6c.sendMessage(_0x3b41c4, {
       'image': {
         'url': "https://telegra.ph/file/73d05b8d0ae57de7b564a.jpg"
