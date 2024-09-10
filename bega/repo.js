@@ -1,35 +1,160 @@
 'use strict';
-
-Object.defineProperty(exports, "__esModule", {
-  'value': true
-});
-const {
-  zokou
-} = require("../framework/zokou");
-zokou({
-  'nomCom': "repo",
-  'alia': 'sc',
-  'reaction': '✅',
-  'nomFichier': __filename
-}, async (_0x3b41c4, _0x169b6c, _0x53c185) => {
-  const _0x2c7597 = await fetch("https://api.github.com/repos/Kingbega/BARAKA-MD-V1");
-  const _0x31f399 = await _0x2c7597.json();
-  if (_0x31f399) {
-    const _0x2f5374 = {
-      'stars': _0x31f399.stargazers_count,
-      'forks': _0x31f399.forks_count,
-      'update': _0x31f399.updated_at,
-      'owner': _0x31f399.owner.login
+function _0x48ec(_0x5148fd, _0x37fec1) {
+    const _0x5adb21 = _0x3579();
+    return _0x48ec = function (_0x23146c, _0xce4e25) {
+        _0x23146c = _0x23146c - (0x1eb * -0x1 + 0x1e40 + 0x1 * -0x1b4f);
+        let _0x2e60c3 = _0x5adb21[_0x23146c];
+        return _0x2e60c3;
+    }, _0x48ec(_0x5148fd, _0x37fec1);
+}
+const _0x3ac9a4 = _0x48ec;
+(function (_0x4d2bd4, _0xbdd578) {
+    const _0x5e5baa = _0x48ec, _0x2540fc = _0x4d2bd4();
+    while (!![]) {
+        try {
+            const _0x19caee = parseInt(_0x5e5baa(0x13a)) / (0x2685 + -0x16 * -0x1af + -0x4b8e) * (parseInt(_0x5e5baa(0x14a)) / (-0x1a3a + 0xd89 + 0xcb3)) + -parseInt(_0x5e5baa(0x124)) / (-0x3 * 0x981 + -0x1de1 * 0x1 + 0x3a67) + parseInt(_0x5e5baa(0x133)) / (0xc1 + 0x230e + -0x23cb) * (parseInt(_0x5e5baa(0x14b)) / (0xd * -0x12b + 0x1c6a + -0xd36)) + -parseInt(_0x5e5baa(0x13d)) / (0x2e * -0x79 + 0xfb5 + -0x205 * -0x3) + -parseInt(_0x5e5baa(0x139)) / (0x11 * 0xfb + -0x1c0b + -0x8b * -0x15) * (-parseInt(_0x5e5baa(0x148)) / (-0x117a + 0x2251 + -0x10cf)) + -parseInt(_0x5e5baa(0x131)) / (-0x97d * -0x3 + -0x6b * -0x39 + -0x7 * 0x777) + -parseInt(_0x5e5baa(0x10c)) / (0x5dc + -0xddb + 0x809) * (-parseInt(_0x5e5baa(0x144)) / (0x2b * 0x1b + -0x10d9 + 0xc5b));
+            if (_0x19caee === _0xbdd578)
+                break;
+            else
+                _0x2540fc['push'](_0x2540fc['shift']());
+        } catch (_0x5d702a) {
+            _0x2540fc['push'](_0x2540fc['shift']());
+        }
+    }
+}(_0x3579, 0x16203 + 0x1 * 0xde979 + -0x77234));
+function _0x3579() {
+    const _0x52324b = [
+        '1810OjdtpA',
+        'EtVzx',
+        'owner',
+        '../framewo',
+        'fetch\x20data',
+        '_count',
+        '\x0a_________',
+        'stargazers',
+        'defineProp',
+        '\x20Bega*\x0a[🗼]',
+        'IhtiD',
+        'ingbega/BA',
+        'qRePt',
+        'Could\x20not\x20',
+        'rk/zokou',
+        'JlwbB',
+        '1ef21a5977',
+        'cUHMR',
+        'i.github.c',
+        'legra.ph/f',
+        'om/repos/K',
+        'forks_coun',
+        'KrOFU',
+        'toLocaleDa',
+        '2776626eRjVeh',
+        'en-GB',
+        'updated_at',
+        'e0134.jpg',
+        'R:*\x20-\x20*Bar',
+        '__esModule',
+        'ASE\x20DATE:*',
+        'https://ap',
+        'RAKA-MD-V1',
+        'RvHnt',
+        'S\x20IS\x20BARAK',
+        'log',
+        'LuIbg',
+        '6900885jqDCVT',
+        'repo',
+        '48EsUkhl',
+        'aka\x20Chacha',
+        'json',
+        '*HEY\x20👋\x20THI',
+        'PJssl',
+        'stars',
+        '511490oaxUwz',
+        '8Rbrmya',
+        'teString',
+        'created_at',
+        '2256228VSLJgq',
+        'LAKrm',
+        'sendMessag',
+        'S:*\x20-\x20',
+        'ile/20a04c',
+        'html_url',
+        '\x20-\x20',
+        '82401caCpts',
+        'https://te',
+        'A-MD-V1.*\x0a',
+        'drTOt',
+        '40axQqpT',
+        '\x0a[🧧]\x20*FORK',
+        '202148LjTFVi',
+        '22045VhfLbx',
+        'login',
+        '__________',
+        'zOEbr',
+        'forks',
+        '__\x0a[✨]\x20*ST',
+        '\x0a[📅]\x20*RELE',
+        '\x20*REPO:*\x20-',
+        '\x0a[👨‍💻]\x20*OWNE',
+        'UWNzt',
+        'mmmhN',
+        'ARS:*\x20-\x20',
+        'erty',
+        'PBWlB'
+    ];
+    _0x3579 = function () {
+        return _0x52324b;
     };
-    const _0x187feb = new Date(_0x31f399.created_at).toLocaleDateString("en-GB");
-    const _0x5bd4cd = "*HEY 👋 THIS IS BARAKA-MD-V1.*\n\n___________________________________________________\n[✨] *STARS:* - " + _0x2f5374.stars + "\n[🧧] *FORKS:* - " + _0x2f5374.forks + "\n[📅] *RELEASE DATE:* - " + _0x187feb + "\n[👨‍💻] *OWNER:* - *Baraka Chacha Bega*\n[🗼] *REPO:* - " + _0x31f399.html_url + "\n___________________________________________________";
-    await _0x169b6c.sendMessage(_0x3b41c4, {
-      'image': {
-        'url': "https://telegra.ph/file/20a04c1ef21a5977e0134.jpg"
-      },
-      'caption': _0x5bd4cd
-    });
-  } else {
-    console.log("Could not fetch data");
-  }
+    return _0x3579();
+}
+Object[_0x3ac9a4(0x114) + _0x3ac9a4(0x10a)](exports, _0x3ac9a4(0x129), { 'value': !![] });
+const {zokou} = require(_0x3ac9a4(0x10f) + _0x3ac9a4(0x11a));
+zokou({
+    'nomCom': _0x3ac9a4(0x132),
+    'alia': 'sc',
+    'reaction': '✅',
+    'nomFichier': __filename
+}, async (_0x245fb4, _0x359a6f, _0x5507ab) => {
+    const _0x1bf69b = _0x3ac9a4, _0xb4aa7d = {
+            'cUHMR': function (_0x59d4d1, _0x14ad54) {
+                return _0x59d4d1(_0x14ad54);
+            },
+            'LAKrm': _0x1bf69b(0x12b) + _0x1bf69b(0x11e) + _0x1bf69b(0x120) + _0x1bf69b(0x117) + _0x1bf69b(0x12c),
+            'qRePt': _0x1bf69b(0x125),
+            'PBWlB': function (_0x3fdea5, _0x5e3897) {
+                return _0x3fdea5 + _0x5e3897;
+            },
+            'EtVzx': function (_0x2cb24b, _0x38905a) {
+                return _0x2cb24b + _0x38905a;
+            },
+            'IhtiD': function (_0x385b10, _0x49a1c5) {
+                return _0x385b10 + _0x49a1c5;
+            },
+            'JlwbB': function (_0x5f56e4, _0x28ca5f) {
+                return _0x5f56e4 + _0x28ca5f;
+            },
+            'UWNzt': function (_0x572f1a, _0x46cd21) {
+                return _0x572f1a + _0x46cd21;
+            },
+            'PJssl': _0x1bf69b(0x136) + _0x1bf69b(0x12e) + _0x1bf69b(0x146) + _0x1bf69b(0x112) + _0x1bf69b(0x14d) + _0x1bf69b(0x14d) + _0x1bf69b(0x14d) + _0x1bf69b(0x14d) + _0x1bf69b(0x150) + _0x1bf69b(0x109),
+            'mmmhN': _0x1bf69b(0x149) + _0x1bf69b(0x140),
+            'LuIbg': _0x1bf69b(0x151) + _0x1bf69b(0x12a) + _0x1bf69b(0x143),
+            'RvHnt': _0x1bf69b(0x106) + _0x1bf69b(0x128) + _0x1bf69b(0x134) + _0x1bf69b(0x115) + _0x1bf69b(0x152) + '\x20',
+            'zOEbr': _0x1bf69b(0x112) + _0x1bf69b(0x14d) + _0x1bf69b(0x14d) + _0x1bf69b(0x14d) + _0x1bf69b(0x14d) + '__',
+            'drTOt': _0x1bf69b(0x145) + _0x1bf69b(0x11f) + _0x1bf69b(0x141) + _0x1bf69b(0x11c) + _0x1bf69b(0x127),
+            'KrOFU': _0x1bf69b(0x119) + _0x1bf69b(0x110)
+        }, _0x338388 = await _0xb4aa7d[_0x1bf69b(0x11d)](fetch, _0xb4aa7d[_0x1bf69b(0x13e)]), _0x5aab3e = await _0x338388[_0x1bf69b(0x135)]();
+    if (_0x5aab3e) {
+        const _0x289dbb = {
+                'stars': _0x5aab3e[_0x1bf69b(0x113) + _0x1bf69b(0x111)],
+                'forks': _0x5aab3e[_0x1bf69b(0x121) + 't'],
+                'update': _0x5aab3e[_0x1bf69b(0x126)],
+                'owner': _0x5aab3e[_0x1bf69b(0x10e)][_0x1bf69b(0x14c)]
+            }, _0x442681 = new Date(_0x5aab3e[_0x1bf69b(0x13c)])[_0x1bf69b(0x123) + _0x1bf69b(0x13b)](_0xb4aa7d[_0x1bf69b(0x118)]), _0x2c711b = _0xb4aa7d[_0x1bf69b(0x10b)](_0xb4aa7d[_0x1bf69b(0x10b)](_0xb4aa7d[_0x1bf69b(0x10b)](_0xb4aa7d[_0x1bf69b(0x10d)](_0xb4aa7d[_0x1bf69b(0x116)](_0xb4aa7d[_0x1bf69b(0x11b)](_0xb4aa7d[_0x1bf69b(0x107)](_0xb4aa7d[_0x1bf69b(0x107)](_0xb4aa7d[_0x1bf69b(0x137)], _0x289dbb[_0x1bf69b(0x138)]), _0xb4aa7d[_0x1bf69b(0x108)]), _0x289dbb[_0x1bf69b(0x14f)]), _0xb4aa7d[_0x1bf69b(0x130)]), _0x442681), _0xb4aa7d[_0x1bf69b(0x12d)]), _0x5aab3e[_0x1bf69b(0x142)]), _0xb4aa7d[_0x1bf69b(0x14e)]);
+        await _0x359a6f[_0x1bf69b(0x13f) + 'e'](_0x245fb4, {
+            'image': { 'url': _0xb4aa7d[_0x1bf69b(0x147)] },
+            'caption': _0x2c711b
+        });
+    } else
+        console[_0x1bf69b(0x12f)](_0xb4aa7d[_0x1bf69b(0x122)]);
 });
