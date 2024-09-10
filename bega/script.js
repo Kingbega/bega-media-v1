@@ -7,7 +7,7 @@ const {
   zokou
 } = require("../framework/zokou");
 zokou({
-  'nomCom': "repo",
+  'nomCom': "script",
   'alia': 'sc',
   'reaction': '✅',
   'nomFichier': __filename
