@@ -25,7 +25,7 @@ zokou({
     const _0x5bd4cd = "*HEY 👋 THIS IS BARAKA-MD-V1.*\n\n I'm A WhatsApp bot created by *©Baraka Bega*.\n\n[✨] *STARS:* - " + _0x2f5374.stars + "\n[🧧] *FORKS:* - " + _0x2f5374.forks + "\n[📅] *RELEASE DATE:* - " + _0x187feb + "\n[🗼] *REPO:* - " + _0x31f399.html_url + "\n[👨‍💻] *OWNER:* - *Baraka Bega*\n__________________________________\n *Made With* 🤍";
     await _0x169b6c.sendMessage(_0x3b41c4, {
       'image': {
-        'url': "https://telegra.ph/file/73d05b8d0ae57de7b564a.jpg"
+        'url': "https://telegra.ph/file/20a04c1ef21a5977e0134.jpg"
       },
       'caption': _0x5bd4cd
     });
