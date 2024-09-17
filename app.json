@@ -2,7 +2,7 @@
   "name":"BARAKA-MD-V1",
   "description":"Best whatsapp bot developed by Baraka bega+Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.imgur.com/0V5xT4v.jpeg,https://i.imgur.com/NrthijG.jpeg",
+  "logo":"https://i.imgur.com/0V5xT4v.jpeg",
   "repository":"https://github.com/ibraahadam/BARAKA-MD-V3",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/0V5xT4v.jpeg,https://i.imgur.com/NrthijG.jpeg",
+      "value":"https://i.imgur.com/0V5xT4v.jpeg",
       "required":false
        
      },
