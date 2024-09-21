@@ -1,8 +1,8 @@
-const { bot, getUrl } = require('../framework/zokou')
+const{ bot, getUrl } = require('../framework/zokou')
 
 zokou(
   {
-    pattern: 'url2 ?(.*)',
+    pattern: 'url ?(.*)',
     desc: 'Image/Video to url',
     type: 'misc',
   },
@@ -12,5 +12,4 @@ zokou(
     await message.send(
       await getUrl(await message.reply_message.downloadAndSaveMediaMessage('url'), match)
     )
-  }
-)
+  };
