@@ -2,7 +2,7 @@ const{ zokou } = require('../framework/zokou')
 
 zokou(
   {
-    pattern: 'url2 ?(.*)',
+    pattern: 'url ?(.*)',
     desc: 'Image/Video to url',
     type: 'misc',
   },
@@ -11,5 +11,6 @@ zokou(
       return await message.send('*Reply to a image | video*\nurl imgur - for imgur url')
     await message.send(
       await getUrl(await message.reply_message.downloadAndSaveMediaMessage('url'), match)
-    )
-  };
+    );
+});
+  
