@@ -1,8 +1,8 @@
-const{ bot, getUrl } = require('../framework/zokou')
+const{ zokou } = require('../framework/zokou')
 
 zokou(
   {
-    pattern: 'url ?(.*)',
+    pattern: 'url2 ?(.*)',
     desc: 'Image/Video to url',
     type: 'misc',
   },
