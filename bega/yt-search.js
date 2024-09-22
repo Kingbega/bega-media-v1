@@ -4,7 +4,7 @@ const yts = require("yt-search");
 const ytdl = require('ytdl-core');
 const fs = require('fs');
 
-zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "yts", categorie: "Search", reaction: "🦚" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
   const query = arg.join(" ");
 
@@ -26,7 +26,7 @@ zokou({ nomCom: "yts", categorie: "Search", reaction: "✋" }, async (dest, zk, 
     // repondre(captions)
     zk.sendMessage(dest, { image: { url: resultat[0].thumbnail }, caption: captions }, { quoted: ms });
   } catch (error) {
-    repondre("Erreur lors de la procédure : " + error);
+    repondre("Error during the procedure : " + error);
   }
 });
 
@@ -82,13 +82,13 @@ _*En cours de téléchargement...*_\n\n`
     });
 
     fileStream.on('error', (error) => {
-      console.error('Erreur lors de l\'écriture du fichier vidéo :', error);
-      repondre('Une erreur est survenue lors de l\'écriture du fichier vidéo.');
+      console.error('Error during the\'Video file writing :', error);
+      repondre('An error occurred during the\'Video file writing.');
     });
 
   } catch (error) {
-    console.error('Erreur lors de la recherche ou du téléchargement de la vidéo :', error);
-    repondre('Une erreur est survenue lors de la recherche ou du téléchargement de la vidéo.' + error);
+    console.error('Error when searching or downloading the video :', error);
+    repondre('An error occurred when searching or downloading the video.' + error);
   }
 });
 
@@ -123,12 +123,12 @@ zokou({
     });
 
     fileStream.on('error', (error) => {
-      console.error('Erreur lors de l\'écriture du fichier audio :', error);
-      repondre('Une erreur est survenue lors de l\'écriture du fichier audio.');
+      console.error('Error during the\'Writing the audio file :', error);
+      repondre('An error occurred during the\'Writing the audio file.');
     });
 
   } catch (error) {
-    console.error('Erreur lors de la recherche ou du téléchargement de la vidéo :', error);
-    repondre('Une erreur est survenue lors de la recherche ou du téléchargement de la vidéo.');
+    console.error('Error when searching or downloading the video :', error);
+    repondre('An error occurred when searching or downloading the video.');
   }
 });
