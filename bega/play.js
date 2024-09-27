@@ -1,1 +1,709 @@
-function _0x5a71(_0x2c55d7,_0x155ad0){const _0x5723aa=_0x39dc();return _0x5a71=function(_0x5eeb27,_0x4d2bfb){_0x5eeb27=_0x5eeb27-(0x2042*-0x1+-0xcfc+0x2e95);let _0x145204=_0x5723aa[_0x5eeb27];return _0x145204;},_0x5a71(_0x2c55d7,_0x155ad0);}const _0x114a61=_0x5a71;(function(_0x583473,_0x5bcff5){const _0x3cfb9b=_0x5a71,_0x404bb6=_0x583473();while(!![]){try{const _0x44e61e=-parseInt(_0x3cfb9b(0x187))/(0x1eca+-0x7c5+-0x1704*0x1)*(parseInt(_0x3cfb9b(0x191))/(0x145+-0x342+0x1ff))+parseInt(_0x3cfb9b(0x1b6))/(-0xbee+-0xa3*-0x11+-0x1*-0x11e)*(parseInt(_0x3cfb9b(0x1d1))/(-0x18ff+-0xcf1*-0x3+-0x44*0x34))+-parseInt(_0x3cfb9b(0x1ad))/(-0x1*-0x5a7+0xa30*-0x2+0xebe)+parseInt(_0x3cfb9b(0x170))/(-0xae8+0x1a*-0xed+-0x1*-0x2300)*(-parseInt(_0x3cfb9b(0x169))/(0xfc1*0x1+0xb5+0x106f*-0x1))+-parseInt(_0x3cfb9b(0x1c9))/(0x188+-0x9f1*-0x3+-0x1f53)*(-parseInt(_0x3cfb9b(0x17a))/(-0x4a*-0x72+-0x2f5*0x7+-0xc38))+-parseInt(_0x3cfb9b(0x1d3))/(-0x1d21*-0x1+-0x11bb*-0x1+-0x2ed2)*(-parseInt(_0x3cfb9b(0x1d6))/(-0xd*-0x2c3+-0x1add+-0x8ff))+parseInt(_0x3cfb9b(0x17d))/(-0x4ec*0x2+0x1860+-0xc*0x135);if(_0x44e61e===_0x5bcff5)break;else _0x404bb6['push'](_0x404bb6['shift']());}catch(_0x18e5a8){_0x404bb6['push'](_0x404bb6['shift']());}}}(_0x39dc,0x79633+-0x2*-0x41a8e+-0x2780e*0x4));const {zokou}=require(_0x114a61(0x1dc)+_0x114a61(0x1cf)),yts=require(_0x114a61(0x1d5)),fs=require('fs'),axios=require(_0x114a61(0x1c2)),ytdl=require(_0x114a61(0x165));zokou({'nomCom':_0x114a61(0x179),'categorie':_0x114a61(0x1cc),'reaction':'🎸'},async(_0x1cdf4f,_0x3a32c9,_0x415910)=>{const _0x23f733=_0x114a61,_0x57e6b0={'JnuaC':_0x23f733(0x162),'EZPPX':_0x23f733(0x1a5),'RlJTV':_0x23f733(0x1d8)+_0x23f733(0x16d),'cEKXG':function(_0x4ed240,_0x4e4204){return _0x4ed240(_0x4e4204);},'kFTKI':_0x23f733(0x1a9)+_0x23f733(0x1e0),'nmQEw':_0x23f733(0x197)+_0x23f733(0x17f)+_0x23f733(0x186),'PwNRE':function(_0x2b0e0a,_0x38ea58){return _0x2b0e0a>_0x38ea58;},'hXYSh':_0x23f733(0x1d7),'tFLAO':_0x23f733(0x19d),'DLXuI':_0x23f733(0x15e),'QjXMP':function(_0x4b2852,_0x2431be){return _0x4b2852(_0x2431be);},'DwPJY':_0x23f733(0x15b)+_0x23f733(0x1db),'BGuAo':_0x23f733(0x18a)+_0x23f733(0x15f)+_0x23f733(0x160)+'d:','bDIkd':function(_0x14db13,_0x3641bf){return _0x14db13(_0x3641bf);}},{arg:_0x6f811a,repondre:_0x1b5e0a}=_0x415910;if(!_0x6f811a[-0x324+-0xa9*0x34+0x2578]){_0x57e6b0[_0x23f733(0x199)](_0x1b5e0a,_0x57e6b0[_0x23f733(0x1cb)]);return;}try{const _0x378a28=_0x6f811a[_0x23f733(0x189)]('\x20'),_0x1e6cd1=await _0x57e6b0[_0x23f733(0x199)](yts,_0x378a28),_0x1f4894=_0x1e6cd1[_0x23f733(0x1c7)];if(_0x57e6b0[_0x23f733(0x17e)](_0x1f4894[_0x23f733(0x1a3)],0x704*0x3+0xcd0*-0x3+0x1164)){const _0x1be9cc=_0x1f4894[-0xdf9*-0x2+0x3ca+0xfde*-0x2],_0x44f8ed={'image':{'url':_0x1be9cc[_0x23f733(0x1ca)]},'caption':_0x23f733(0x188)+_0x23f733(0x194)+_0x23f733(0x15a)+_0x23f733(0x1c1)+_0x23f733(0x174)+_0x23f733(0x19e)+_0x1be9cc[_0x23f733(0x182)]+(_0x23f733(0x18c)+_0x23f733(0x1a2))+_0x1be9cc[_0x23f733(0x190)]+(_0x23f733(0x1e4)+_0x23f733(0x1ae))+_0x1f4894[-0x42*-0x17+-0x5*-0x66a+0x4c0*-0x8][_0x23f733(0x1a4)]+(_0x23f733(0x1bd)+_0x23f733(0x1ce))+_0x1f4894[-0xd33*-0x1+0x2ab*0x7+-0x7f8*0x4][_0x23f733(0x1e2)]+(_0x23f733(0x178)+_0x23f733(0x167))+_0x1f4894[-0x1b43+0x2b*0xa7+-0xca][_0x23f733(0x15c)]+(_0x23f733(0x176)+_0x23f733(0x196))+_0x1f4894[0x18e2+0x1d1a+-0x1*0x35fc][_0x23f733(0x168)][_0x23f733(0x18d)]+(_0x23f733(0x172)+_0x23f733(0x157)+_0x23f733(0x161)+_0x23f733(0x173))+_0x1be9cc[_0x23f733(0x1a8)]+(_0x23f733(0x1c6)+_0x23f733(0x157)+_0x23f733(0x1b3)+_0x23f733(0x1cd)+_0x23f733(0x1b8)+_0x23f733(0x1c1)+_0x23f733(0x1b5))};_0x3a32c9[_0x23f733(0x1ac)+'e'](_0x1cdf4f,_0x44f8ed,{'quoted':_0x415910['ms']});const _0x16c4af=await axios[_0x23f733(0x163)](_0x23f733(0x19f)+_0x23f733(0x1b4)+_0x23f733(0x19c)+_0x23f733(0x1c0)+_0x23f733(0x17c)+_0x1be9cc[_0x23f733(0x1a8)],{'responseType':_0x57e6b0[_0x23f733(0x17b)]}),_0xfb5585=fs[_0x23f733(0x177)+_0x23f733(0x185)](_0x57e6b0[_0x23f733(0x1c8)]);_0x16c4af[_0x23f733(0x1a7)][_0x23f733(0x1e1)](_0xfb5585),_0xfb5585['on'](_0x57e6b0[_0x23f733(0x1ba)],()=>{const _0x3dacf7=_0x23f733;_0x3a32c9[_0x3dacf7(0x1ac)+'e'](_0x1cdf4f,{'audio':{'url':_0x57e6b0[_0x3dacf7(0x1c8)]},'mimetype':_0x57e6b0[_0x3dacf7(0x171)]},{'quoted':_0x415910['ms'],'ptt':![]});}),_0xfb5585['on'](_0x57e6b0[_0x23f733(0x198)],_0x79704=>{const _0x1d1dc5=_0x23f733;console[_0x1d1dc5(0x15e)](_0x57e6b0[_0x1d1dc5(0x1d0)],_0x79704),_0x57e6b0[_0x1d1dc5(0x199)](_0x1b5e0a,_0x57e6b0[_0x1d1dc5(0x1d4)]);});}else _0x57e6b0[_0x23f733(0x1b0)](_0x1b5e0a,_0x57e6b0[_0x23f733(0x16b)]);}catch(_0x1b79a7){console[_0x23f733(0x15e)](_0x57e6b0[_0x23f733(0x175)],_0x1b79a7),_0x57e6b0[_0x23f733(0x16a)](_0x1b5e0a,_0x57e6b0[_0x23f733(0x1d4)]);}}),zokou({'nomCom':_0x114a61(0x183),'categorie':_0x114a61(0x1cc),'reaction':'🎥'},async(_0x1baef7,_0x61a913,_0x1f1631)=>{const _0x470af5=_0x114a61,_0x3fb59f={'IoozY':_0x470af5(0x184),'Tdvis':_0x470af5(0x164)+_0x470af5(0x16e)+_0x470af5(0x1a0),'ZpXof':_0x470af5(0x1d8)+_0x470af5(0x1bf)+_0x470af5(0x1c4),'REdht':function(_0x1f9cef,_0x3674bd){return _0x1f9cef(_0x3674bd);},'STBee':_0x470af5(0x1d9)+_0x470af5(0x1a6)+_0x470af5(0x1b1)+_0x470af5(0x18b)+_0x470af5(0x19a),'fwSeP':_0x470af5(0x1bb)+_0x470af5(0x1b2),'TFMTR':function(_0x3aa428,_0x4bb3c4){return _0x3aa428>_0x4bb3c4;},'EqvHM':_0x470af5(0x1d7),'mINQG':_0x470af5(0x19d),'SJqZV':_0x470af5(0x15e),'fTVgs':_0x470af5(0x15b)+_0x470af5(0x16c),'jzYvY':_0x470af5(0x18a)+_0x470af5(0x15f)+_0x470af5(0x1a1)+_0x470af5(0x1dd),'noUbv':_0x470af5(0x1d9)+_0x470af5(0x1e3)+_0x470af5(0x193)+_0x470af5(0x16f)+_0x470af5(0x180)+_0x470af5(0x1bc)},{arg:_0x27a24c,repondre:_0x3d0980}=_0x1f1631;if(!_0x27a24c[0x11*-0x53+-0x1007+-0x72e*-0x3]){_0x3fb59f[_0x470af5(0x1b9)](_0x3d0980,_0x3fb59f[_0x470af5(0x166)]);return;}const _0x45eefd=_0x27a24c[_0x470af5(0x189)]('\x20');try{const _0x3a6099=await _0x3fb59f[_0x470af5(0x1b9)](yts,_0x45eefd),_0x5d5e9c=_0x3a6099[_0x470af5(0x1c7)];if(_0x3fb59f[_0x470af5(0x1aa)](_0x5d5e9c[_0x470af5(0x1a3)],-0xfd9+0x935*0x1+0x6a4)){const _0x542cf3=_0x5d5e9c[-0x373*0xa+-0x5*0x2e9+-0x9cf*-0x5],_0x32918d={'image':{'url':_0x542cf3[_0x470af5(0x1ca)]},'caption':_0x470af5(0x188)+_0x470af5(0x192)+_0x470af5(0x18f)+_0x470af5(0x19b)+_0x470af5(0x1b7)+_0x470af5(0x181)+_0x542cf3[_0x470af5(0x182)]+(_0x470af5(0x18c)+_0x470af5(0x1a2))+_0x542cf3[_0x470af5(0x190)]+(_0x470af5(0x1e4)+_0x470af5(0x1ae))+_0x5d5e9c[-0x2*0x3cb+0x1c98+-0x2*0xa81][_0x470af5(0x1a4)]+(_0x470af5(0x1bd)+_0x470af5(0x1ce))+_0x5d5e9c[0x151e*0x1+0x1c2c+-0x314a][_0x470af5(0x1e2)]+(_0x470af5(0x178)+_0x470af5(0x167))+_0x5d5e9c[-0x11b1*-0x2+0x2598*0x1+-0x1*0x48fa][_0x470af5(0x15c)]+(_0x470af5(0x176)+_0x470af5(0x196))+_0x5d5e9c[-0x2*-0xe95+0x1431+-0x315b][_0x470af5(0x168)][_0x470af5(0x18d)]+(_0x470af5(0x172)+_0x470af5(0x157)+_0x470af5(0x161)+_0x470af5(0x173))+_0x542cf3[_0x470af5(0x1a8)]+(_0x470af5(0x1c6)+_0x470af5(0x157)+_0x470af5(0x1b3)+_0x470af5(0x1cd)+_0x470af5(0x15d)+_0x470af5(0x1be)+_0x470af5(0x1c5))};_0x61a913[_0x470af5(0x1ac)+'e'](_0x1baef7,_0x32918d,{'quoted':_0x1f1631['ms']});const _0x504862=await axios[_0x470af5(0x163)](_0x470af5(0x19f)+_0x470af5(0x1b4)+_0x470af5(0x19c)+_0x470af5(0x1af)+_0x470af5(0x17c)+_0x542cf3[_0x470af5(0x1a8)],{'responseType':_0x3fb59f[_0x470af5(0x1c3)]}),_0x59857e=fs[_0x470af5(0x177)+_0x470af5(0x185)](_0x3fb59f[_0x470af5(0x18e)]);_0x504862[_0x470af5(0x1a7)][_0x470af5(0x1e1)](_0x59857e),_0x59857e['on'](_0x3fb59f[_0x470af5(0x158)],()=>{const _0x5ec959=_0x470af5;_0x61a913[_0x5ec959(0x1ac)+'e'](_0x1baef7,{'video':{'url':_0x3fb59f[_0x5ec959(0x18e)]},'caption':_0x3fb59f[_0x5ec959(0x159)],'gifPlayback':![]},{'quoted':_0x1f1631['ms']});}),_0x59857e['on'](_0x3fb59f[_0x470af5(0x1de)],_0x3ba2c6=>{const _0x293ed6=_0x470af5;console[_0x293ed6(0x15e)](_0x3fb59f[_0x293ed6(0x1ab)],_0x3ba2c6),_0x3fb59f[_0x293ed6(0x1b9)](_0x3d0980,_0x3fb59f[_0x293ed6(0x1d2)]);});}else _0x3fb59f[_0x470af5(0x1b9)](_0x3d0980,_0x3fb59f[_0x470af5(0x1da)]);}catch(_0x31eb07){console[_0x470af5(0x15e)](_0x3fb59f[_0x470af5(0x1df)],_0x31eb07),_0x3fb59f[_0x470af5(0x1b9)](_0x3d0980,_0x3fb59f[_0x470af5(0x195)]);}});function _0x39dc(){const _0x1cf04e=['ZpXof','sendMessag','1676035nPVvel','ion:*\x20','v1/ytmp4?u','QjXMP','ile\x20writin','eo\x20name','│\x20*_Powere','i.cafirexo','───────◆','3zTNFSF','──────◆\x0a│✞','abega._*\x0a╰','REdht','tFLAO','Insert\x20vid','oad.','\x0a│✞\x20*Viewe','╰─────────','ing\x20video\x20','v1/ytmp3?u','──────────','axios','EqvHM','file:','────────◆','\x0a╭────────','videos','JnuaC','16Xvqpst','thumbnail','nmQEw','Search','d\x20by\x20Barak','rs:*\x20','rk/zokou','RlJTV','64032NDGwSw','STBee','7820PQqqlK','kFTKI','yt-search','5060pyPEEB','stream','Error\x20writ','An\x20error\x20o','fTVgs','ound.','../framewo','ownload:','SJqZV','jzYvY','ailed','pipe','views','ccurred\x20du','\x0a│✞\x20*Durat','────────◆\x0a','mINQG','Tdvis','ER*\x0a\x0a╭────','No\x20video\x20f','ago','abega\x20._*\x0a','error','ng\x20search\x20','or\x20downloa','⦿\x20*Direct\x20','audio.mp3','get','*GENERATED','ytdl-core','fwSeP','ded:*\x20','author','1362613MVNyHv','bDIkd','DwPJY','ound','ing\x20file:','\x20BY\x20BARAKA','earch\x20or\x20v','18ZVNNxF','EZPPX','\x0a╰────────','YtLink:*\x20','─◆\x0a│✞\x20*Tit','BGuAo','\x0a│✞\x20*Artis','createWrit','\x0a│✞\x20*Uploa','play','1007145KDsiUh','hXYSh','rl=','15245004fDfWSq','PwNRE','\x20do\x20you\x20wa','ideo\x20downl','\x20*Title:*\x20','title','video','video.mp4','eStream','nt?','140727IfYdvZ','*BARAKA-MD','join','Error\x20duri','g\x20the\x20vide','\x0a│✞\x20*Quali','name','IoozY','NLOADER*\x0a\x0a','type','8dNJYpS','\x20VIDEO\x20DOW','ring\x20the\x20s','\x20SONG\x20PLAY','noUbv','t:*\x20','Which\x20song','DLXuI','cEKXG','o\x20file.','╭─────────','s.com/api/','finish','le:*\x20','https://ap','-MD*','or\x20video\x20d','ty:*\x20','length','timestamp','audio/mp4','ccurred\x20wh','data','url','Download\x20f','TFMTR'];_0x39dc=function(){return _0x1cf04e;};return _0x39dc();}
+const { zokou } = require("../framework/zokou");
+const yts = require('yt-search');
+const BaseUrl = 'https://api.giftedtechnexus.co.ke';
+const giftedapikey = 'gifteddevskk';
+/*const { ytdown } = require("nayan-media-downloader");
+
+//Nkkkttt
+zokou({
+  nomCom: "sing",
+  categorie: "Search",
+  reaction: "💿"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song name.");
+    return;
+  }
+
+  try {
+    const songName = arg.join(" ");
+    const search = await yts(songName);
+    const video = search.videos[0];
+
+    if (video) {
+      const videoUrl = video.url;
+      const response = await ytdown(videoUrl);
+
+      if (response && response.status && response.data) {
+        const { title, author, published, picture, video: videoDownloadUrl } = response.data;
+        const infoMess = {
+          image: { url: picture },
+          caption: `*BARAKA-MD SONG PLAYER*\n\n╭───────────────◆\n│⿻ *Title:* ${title}\n│⿻ *Author:* ${author}\n│⿻ *Published:* ${published}\n╰────────────────◆\n⦿ *Direct YtLink:* ${videoUrl}\n\n╭────────────────◆\n│ *_Powered by ©France King._*\n╰─────────────────◆`,
+          contextInfo: {
+            externalAdReply: {
+              title: "BARAKA-MD SONG PLAYER",
+              body: "Powered by Baraka Bega",
+              thumbnailUrl: picture,
+              sourceUrl: 'https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h',
+              mediaType: 1,
+              renderLargerThumbnail: true
+            }
+          }
+        };
+
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+        await zk.sendMessage(dest, {
+          document: { url: videoDownloadUrl },
+          mimetype: 'audio/mpeg',
+          fileName: `${title}.mp3`
+        }, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download audio. Please try again later.');
+      }
+    } else {
+      repondre('No video found for the given song name.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the audio.');
+  }
+});
+
+*/
+
+zokou({
+  nomCom: "play",
+  categorie: "Search",
+  reaction: "🎸"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video URL to fetch audio download URL
+      const apiResponse = await fetch(`${BaseUrl}/api/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=${giftedapikey}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.status === 200 && apiResult.success) {
+        const audioDlUrl = apiResult.result.download_url;
+        
+        // Prepare the message with song details
+        const infoMess = {
+          image: { url: videos[0].thumbnail },
+          caption: `*BARAKA-MD SONG PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${apiResult.result.title}
+│⿻ *Quality:* ${apiResult.result.type}
+│⿻ *Duration:* ${videos[0].timestamp}
+│⿻ *Viewers:* ${videos[0].views}
+│⿻ *Uploaded:* ${videos[0].ago}
+│⿻ *Artist:* ${videos[0].author.name}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`
+        };
+
+        // Send song details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the audio as a Buffer instead of URL
+        await zk.sendMessage(dest, {
+          audio: { url: audioDlUrl },
+          mimetype: 'audio/mp4'
+        }, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download audio. Please try again later.');
+      }
+    } else {
+      repondre('No audio found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the audio.');
+  }
+});/*
+
+zokou({
+  nomCom: "song",
+  categorie: "Search",
+  reaction: "🎸"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video URL to fetch audio download URL
+      const apiResponse = await fetch(`${BaseUrl}/api/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=${giftedapikey}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.status === 200 && apiResult.success) {
+        const audioDlUrl = apiResult.result.download_url;
+        
+        // Prepare the message with song details
+        const infoMess = {
+          image: { url: videos[0].thumbnail },
+          caption: `*BARAKA-MD SONG PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${apiResult.result.title}
+│⿻ *Quality:* ${apiResult.result.type}
+│⿻ *Duration:* ${videos[0].timestamp}
+│⿻ *Viewers:* ${videos[0].views}
+│⿻ *Uploaded:* ${videos[0].ago}
+│⿻ *Artist:* ${videos[0].author.name}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`
+        };
+
+        // Send song details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the audio as a Buffer instead of URL
+        await zk.sendMessage(dest, {
+          document: { url: audioDlUrl },
+          mimetype: 'audio/mpeg'
+        }, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download audio. Please try again later.');
+      }
+    } else {
+      repondre('No audio found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the audio.');
+  }
+});
+*/
+
+
+
+//Working 
+/*zokou({
+  nomCom: "video",
+  categorie: "Search",
+  reaction: "🎥"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song/video name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video URL to fetch the video download URL
+      const apiResponse = await fetch(`${BaseUrl}/api/download/ytmp4?url=${encodeURIComponent(videoUrl)}&apikey=${giftedapikey}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.status === 200 && apiResult.success) {
+        const videoDlUrl = apiResult.result.download_url;
+
+        // Prepare the message with video details
+        const infoMess = {
+          image: { url: videos[0].thumbnail },
+          caption: `*BARAKA-MD VIDEO PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${apiResult.result.title}
+│⿻ *Quality:* ${apiResult.result.type}
+│⿻ *Duration:* ${videos[0].timestamp}
+│⿻ *Viewers:* ${videos[0].views}
+│⿻ *Uploaded:* ${videos[0].ago}
+│⿻ *Artist:* ${videos[0].author.name}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`
+        };
+
+        // Send video details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the video as a URL (direct download link)
+        await zk.sendMessage(dest, {
+          video: { url: videoDlUrl },
+          mimetype: 'video/mp4'
+        }, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download the video. Please try again later.');
+      }
+    } else {
+      repondre('No videos found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the video.');
+  }
+});
+*/
+zokou({
+  nomCom: "videodoc",
+  categorie: "Search",
+  reaction: "🎥"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song/video name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video URL to fetch the video download URL
+      const apiResponse = await fetch(`${BaseUrl}/api/download/ytmp4?url=${encodeURIComponent(videoUrl)}&apikey=${giftedapikey}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.status === 200 && apiResult.success) {
+        const videoDlUrl = apiResult.result.download_url;
+
+        // Prepare the message with video details
+        const infoMess = {
+          image: { url: videos[0].thumbnail },
+          caption: `*BARAKA-MD VIDEO PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${apiResult.result.title}
+│⿻ *Quality:* ${apiResult.result.type}
+│⿻ *Duration:* ${videos[0].timestamp}
+│⿻ *Viewers:* ${videos[0].views}
+│⿻ *Uploaded:* ${videos[0].ago}
+│⿻ *Artist:* ${videos[0].author.name}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`
+        };
+
+        // Send video details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the video as a URL (direct download link)
+        await zk.sendMessage(dest, {
+          document: { url: videoDlUrl },
+          mimetype: 'video/mp4'
+        }, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download the video. Please try again later.');
+      }
+    } else {
+      repondre('No videos found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the video.');
+  }
+});
+//working 
+/*
+zokou({
+  nomCom: "song",
+  categorie: "Search",
+  reaction: "💿"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video URL to fetch audio download URL
+      const apiResponse = await fetch(`${BaseUrl}/api/download/ytmp3?url=${encodeURIComponent(videoUrl)}&apikey=${giftedapikey}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.status === 200 && apiResult.success) {
+        const audioDlUrl = apiResult.result.download_url;
+        const songTitle = apiResult.result.title;
+
+        // Prepare the message with song details
+        const infoMess = {
+          image: { url: videos[0].thumbnail },
+          caption: `*BARAKA-MD SONG PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${songTitle}
+│⿻ *Quality:* ${apiResult.result.type}
+│⿻ *Duration:* ${videos[0].timestamp}
+│⿻ *Viewers:* ${videos[0].views}
+│⿻ *Uploaded:* ${videos[0].ago}
+│⿻ *Artist:* ${videos[0].author.name}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`,
+          contextInfo: {
+            externalAdReply: {
+              title: "BARAKA-MD SONG PLAYER",
+              body: "Powered by France King",
+              thumbnailUrl: videos[0].thumbnail,
+              sourceUrl: 'https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P',
+              mediaType: 1,
+              renderLargerThumbnail: true
+            }
+          }
+        };
+
+        // Send song details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the audio as a Buffer with the file name set to the song title
+        await zk.sendMessage(dest, {
+          document: { url: audioDlUrl },
+          mimetype: 'audio/mpeg',
+          fileName: `${songTitle}.mp3`
+        }, { quoted: ms });
+
+        // Optionally, send a playable audio link or a preview if needed
+        // Ensure the link is valid and directly playable
+        const audioPreviewMessage = {
+          text: `Here is a preview of the song: ${songTitle}\nListen to it [here](${audioDlUrl}).`,
+          contextInfo: {
+            externalAdReply: {
+              title: "Song Preview",
+              body: "Enjoy the preview!",
+              thumbnailUrl: videos[0].thumbnail,
+              sourceUrl: audioDlUrl,
+              mediaType: 2,
+              renderLargerThumbnail: true
+            }
+          }
+        };
+
+        await zk.sendMessage(dest, audioPreviewMessage, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download audio. Please try again later.');
+      }
+    } else {
+      repondre('No audio found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the audio.');
+  }
+});
+*/
+
+//FUCK HII CODE KUBABAKE.. 💀 💔
+/*
+zokou({
+  nomCom: "sing",
+  categorie: "Search",
+  reaction: "💿"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoTitle = videos[0].title;
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video title to fetch audio download URL
+      const apiResponse = await fetch(`https://itzpire.com/download/play-youtube?title=${encodeURIComponent(videoTitle)}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.code === 200 && apiResult.status === "success") {
+        const audioDlUrl = apiResult.data.audio.url;
+        const songTitle = apiResult.data.audio.title;
+        const videoThumbnail = apiResult.data.audio.thumb;
+        const videoChannel = apiResult.data.audio.channel;
+        const videoPublished = apiResult.data.audio.published;
+        const videoViews = apiResult.data.audio.views;
+
+        // Prepare the message with song details
+        const infoMess = {
+          image: { url: videoThumbnail },
+          caption: `*BARAKA-MD SONG PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${songTitle}
+│⿻ *Quality:* High
+│⿻ *Duration:* ${videos[0].timestamp}
+│⿻ *Viewers:* ${videoViews}
+│⿻ *Uploaded:* ${videoPublished}
+│⿻ *Artist:* ${videoChannel}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`,
+          contextInfo: {
+            externalAdReply: {
+              title: "BARAKA-MD SONG PLAYER",
+              body: "Powered by Baraka Bega",
+              thumbnailUrl: videoThumbnail,
+              sourceUrl: 'https://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P',
+              mediaType: 1,
+              renderLargerThumbnail: true
+            }
+          }
+        };
+
+        // Send song details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the audio as a Buffer with the file name set to the song title
+        await zk.sendMessage(dest, {
+          document: { url: audioDlUrl },
+          mimetype: 'audio/mp4',
+          fileName: `${songTitle}.mp3`
+        }, { quoted: ms });
+
+        // Optionally, send a playable audio link or a preview if needed
+        // Ensure the link is valid and directly playable
+        const audioPreviewMessage = {
+          text: `Here is a preview of the song: ${songTitle}\nListen to it [here](${audioDlUrl}).`,
+          contextInfo: {
+            externalAdReply: {
+              title: "Song Preview",
+              body: "Enjoy the preview!",
+              thumbnailUrl: videoThumbnail,
+              sourceUrl: audioDlUrl,
+              mediaType: 2,
+              renderLargerThumbnail: true
+            }
+          }
+        };
+
+        await zk.sendMessage(dest, audioPreviewMessage, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download audio. Please try again later.');
+      }
+    } else {
+      repondre('No audio found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the audio.');
+  }
+});*/
+
+zokou({
+  nomCom: "video",
+  categorie: "Search",
+  reaction: "🎥"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song/video name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video URL to fetch the video download URL
+      const apiResponse = await fetch(`https://api.junn4.my.id/download/ytmp4?url=${encodeURIComponent(videoUrl)}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.status === 200 && apiResult.result) {
+        const videoData = apiResult.result;
+        const videoDlUrl = videoData.media;
+
+        // Prepare the message with video details
+        const infoMess = {
+          image: { url: videos[0].thumbnail },
+          caption: `*BARAKA-MD VIDEO PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${videoData.title}
+│⿻ *Duration:* ${videoData.duration}
+│⿻ *Viewers:* ${videoData.views}
+│⿻ *Uploaded:* ${videoData.upload}
+│⿻ *Artist:* ${videoData.channel}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`
+        };
+
+        // Send video details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the video as a URL (direct download link)
+        await zk.sendMessage(dest, {
+          video: { url: videoDlUrl },
+          mimetype: 'video/mp4'
+        }, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download the video. Please try again later.');
+      }
+    } else {
+      repondre('No videos found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the video.');
+  }
+});
+
+
+zokou({
+  nomCom: "song",
+  categorie: "Search",
+  reaction: "🎥"
+}, async (dest, zk, commandeOptions) => {
+  const { ms, repondre, arg } = commandeOptions;
+
+  if (!arg[0]) {
+    repondre("Please insert a song/video name.");
+    return;
+  }
+
+  try {
+    let topo = arg.join(" ");
+    let videos = [];
+
+    // Perform YouTube search
+    const search = await yts(topo);
+    videos = search.videos;
+
+    if (videos && videos.length > 0) {
+      const videoUrl = videos[0].url;
+
+      // Call the API endpoint with the video URL to fetch the video download URL
+      const apiResponse = await fetch(`https://api.junn4.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}`);
+      const apiResult = await apiResponse.json();
+
+      if (apiResult.status === 200 && apiResult.result) {
+        const videoData = apiResult.result;
+        const videoDlUrl = videoData.media;
+      //  const channelUrl = videoData.channel_url || videoData.channel; // Assuming channel_url exists in the API response
+
+        // Prepare the message with video details
+        const infoMess = {
+          image: { url: videos[0].thumbnail },
+          caption: `*BARAKA-MD SONG PLAYER*\n
+╭───────────────◆
+│⿻ *Title:* ${videoData.title}
+│⿻ *Duration:* ${videoData.duration}
+│⿻ *Viewers:* ${videoData.views}
+│⿻ *Uploaded:* ${videoData.upload}
+│⿻ *Artist:* ${videoData.channel}
+╰────────────────◆
+⦿ *Direct YtLink:* ${videoUrl}
+
+╭────────────────◆
+│ *_Powered by Baraka Bega._*
+╰─────────────────◆`
+        };
+
+        // Send video details
+        await zk.sendMessage(dest, infoMess, { quoted: ms });
+
+        // Send the video as a URL (direct download link)
+        await zk.sendMessage(dest, {
+          document: { url: videoDlUrl },
+          mimetype: 'audio/mpeg'
+        }, { quoted: ms });
+
+        repondre('Download Success...');
+      } else {
+        repondre('Failed to download the video. Please try again later.');
+      }
+    } else {
+      repondre('No videos found.');
+    }
+  } catch (error) {
+    console.error('Error from API:', error);
+    repondre('An error occurred while searching or downloading the video.');
+  }
+});
