@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-⫹⸙⧉ https://baraka-scanner.onrender.com ⧉⸙⫺`;
+⫹⸙⧉ https://bega-normal-scanner.onrender.com/ ⧉⸙⫺`;
     
 let menuMsg = `
   `;
