@@ -8,7 +8,7 @@ const {
 } = require("../framework/zokou");
 zokou({
   'nomCom': 'script',
-  'alia': 'script',
+  'alia': 'sc',
   'reaction': '♻️',
   'nomFichier': __filename
 }, async (_0x4cc953, _0x5878e8, _0x52ecf0) => {
